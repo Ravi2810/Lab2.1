@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Score Keeper Layout"
+rootProject.name = "Lab_3"
